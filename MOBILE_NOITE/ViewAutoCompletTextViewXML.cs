@@ -15,11 +15,19 @@ namespace MOBILE_NOITE
     [Activity(Label = "ViewAutoCompletTextViewXML")]
     public class ViewAutoCompletTextViewXML : Activity
     {
+        // Pegar estado
+        ArrayAdapter<String> estado;
+        AutoCompleteTextView lista;
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
 
             SetContentView(Resource.Layout.ViewAutoCompletTextViewXML);
+            //ReferenciA
+            lista = FindViewById<AutoCompleteTextView>(Resource.Id.aut_xml);
+
+
         }
     }
 }
