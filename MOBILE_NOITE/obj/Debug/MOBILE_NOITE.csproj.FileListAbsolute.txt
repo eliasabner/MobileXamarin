@@ -106,6 +106,8 @@ C:\Users\emerson.orocha\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\v
 C:\Users\emerson.orocha\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\atividade2_radiobutton_imageview.xml
 C:\Users\emerson.orocha\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\viewautocomplettextview.xml
 C:\Users\emerson.orocha\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\aulas.xml
+C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\MOBILE_NOITE.csprojResolveAssemblyReference.cache
+C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\MOBILE_NOITE.csproj.CoreCompileInputs.cache
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\bin\Debug\MOBILE_NOITE.dll
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\bin\Debug\MOBILE_NOITE.pdb
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\bin\Debug\MOBILE_NOITE.MOBILE_NOITE.apk
@@ -126,8 +128,6 @@ C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\bin\Debug\Renci.SshNet
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\bin\Debug\SshNet.Security.Cryptography.xml
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\bin\Debug\System.Buffers.xml
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\MOBILE_NOITE.csprojResolveAssemblyReference.cache
-C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\MOBILE_NOITE.csproj.CoreCompileInputs.cache
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\MOBILE_NOITE.csproj.CopyComplete
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\MOBILE_NOITE.dll
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\MOBILE_NOITE.pdb
@@ -150,6 +150,7 @@ C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\drawable
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\drawable\baseline_android_white_48dp.png
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\drawable\baseline_event_seat_white_48dp.png
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\drawable\baseline_face_white_48dp.png
+C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\values\estadosxml.xml
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\R.cs.flag
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\uploadflags.txt
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\bin\Debug\Microsoft.CSharp.pdb

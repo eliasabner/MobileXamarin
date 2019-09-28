@@ -18,6 +18,7 @@ namespace MOBILE_NOITE
         // Pegar estado
         ArrayAdapter<String> estado;
         AutoCompleteTextView lista;
+        string[] xml;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -26,6 +27,16 @@ namespace MOBILE_NOITE
             SetContentView(Resource.Layout.ViewAutoCompletTextViewXML);
             //ReferenciA
             lista = FindViewById<AutoCompleteTextView>(Resource.Id.aut_xml);
+            // pegar os estados que se encontra na pasta value/xml
+            xml = Resources.GetStringArray(Resource.Array.estadoXML);
+
+            //Transformar o arrar e adaptar o elemento a ser visualisado
+
+            estado = new ArrayAdapter<String>(this, Android.Resource.Layout.SimpleListItem1,xml);
+
+            //Colocar no autoViews
+            lista.Adapter = estado;
+           
 
 
         }
