@@ -1,0 +1,2 @@
+android.app.Application
+MOBILE_NOITE.MOBILE_NOITE

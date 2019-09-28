@@ -1,0 +1,11 @@
+BouncyCastle.Crypto
+Google.Protobuf
+Renci.SshNet
+SshNet.Security.Cryptography
+System.Buffers
+System.Configuration.ConfigurationManager
+System.Runtime
+System.Security.AccessControl
+System.Security.Permissions
+System.Security.Principal.Windows
+System.Threading.Tasks.Extensions
