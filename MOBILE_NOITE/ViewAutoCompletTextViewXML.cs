@@ -36,9 +36,14 @@ namespace MOBILE_NOITE
 
             //Colocar no autoViews
             lista.Adapter = estado;
-           
 
+            lista.ItemClick += Lista_ItemClick;
 
+        }
+
+        private void Lista_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
+        {
+            Toast.MakeText(this,lista.Text,ToastLength.Short).Show();
         }
     }
 }

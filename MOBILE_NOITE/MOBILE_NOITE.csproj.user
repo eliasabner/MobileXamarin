@@ -3,7 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>Motorola moto g%286%29 plus</SelectedDevice>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
-    <DefaultDevice>NOITE_CELULAR</DefaultDevice>
+    <DefaultDevice>Noite</DefaultDevice>
     <ProjectView>ShowAllFiles</ProjectView>
     <AndroidDesignerPreferredTheme>Theme.DeviceDefault</AndroidDesignerPreferredTheme>
   </PropertyGroup>
