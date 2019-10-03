@@ -35,6 +35,17 @@ namespace MOBILE_NOITE
             arrayAdapter = new ArrayAdapter(this,Android.Resource.Layout.SimpleListItem1,opcao);
 
             spn.Adapter = arrayAdapter;
+
+            spn.ItemSelected += Spn_ItemSelected;
+        }
+
+        private void Spn_ItemSelected(object sender, AdapterView.ItemSelectedEventArgs e)
+        {
+            //Especificar o objeto de click
+            Spinner sp = (Spinner)sender;
+            //lbl // propriedadeS
+            //lbl.Text = sp.SelectedItem.ToString();
+            lbl.Text = sp.SelectedItemPosition.ToString();
         }
     }
 }

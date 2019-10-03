@@ -101,6 +101,7 @@
     <Compile Include="ViewRadioButton.cs" />
     <Compile Include="ViewsImageView.cs" />
     <Compile Include="ViewSpinner.cs" />
+    <Compile Include="ViewSpinnerXml.cs" />
     <Compile Include="widgetAula01.cs" />
     <Compile Include="WiewAlertDialog.cs" />
   </ItemGroup>
