@@ -24,6 +24,7 @@ namespace MOBILE_NOITE
             // 
             var btComp = FindViewById<Button>(Resource.Id.AutoComplet);
             var btComXML = FindViewById<Button>(Resource.Id.AutoCompletXML);
+            var btSpinner = FindViewById<Button>(Resource.Id.ViwSpinner);
 
             btComp.Click += (sender, arg) => {
                 // fazer um link(chamar tela)
@@ -33,6 +34,12 @@ namespace MOBILE_NOITE
             btComXML.Click += (x, y) =>
             {
                 StartActivity(typeof(ViewAutoCompletTextViewXML));
+            };
+
+            btSpinner.Click += (sender, arg) =>
+             {
+                 //chama a tela spinner
+                 StartActivity(typeof(ViewSpinner));
             };
 
         }

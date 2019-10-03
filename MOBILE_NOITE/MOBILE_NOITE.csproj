@@ -100,6 +100,7 @@
     <Compile Include="ViewAutoCompletTextViewXML.cs" />
     <Compile Include="ViewRadioButton.cs" />
     <Compile Include="ViewsImageView.cs" />
+    <Compile Include="ViewSpinner.cs" />
     <Compile Include="widgetAula01.cs" />
     <Compile Include="WiewAlertDialog.cs" />
   </ItemGroup>
@@ -134,6 +135,9 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\ViewAutoCompletTextViewXML.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ViewSpinner.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

@@ -2,7 +2,7 @@
 <xs:schema xmlns:tools="http://schemas.android.com/tools" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>27/09/2019 21:22:07</xs:documentation>
+    <xs:documentation>02/10/2019 21:22:48</xs:documentation>
   </xs:annotation>
   <xs:attribute name="layout">
     <xs:annotation>
@@ -20,6 +20,7 @@
             <xs:enumeration value="@layout/viewautocomplettextviewxml" />
             <xs:enumeration value="@layout/viewimageview" />
             <xs:enumeration value="@layout/viewradiobutton" />
+            <xs:enumeration value="@layout/viewspinner" />
             <xs:enumeration value="@layout/widgetaula01" />
             <xs:enumeration value="@layout/wiewalertdialog" />
             <xs:enumeration value="@android:layout/activity_list_item" />
@@ -67,6 +68,7 @@
             <xs:enumeration value="@layout/viewautocomplettextviewxml" />
             <xs:enumeration value="@layout/viewimageview" />
             <xs:enumeration value="@layout/viewradiobutton" />
+            <xs:enumeration value="@layout/viewspinner" />
             <xs:enumeration value="@layout/widgetaula01" />
             <xs:enumeration value="@layout/wiewalertdialog" />
             <xs:enumeration value="@android:layout/activity_list_item" />
@@ -114,6 +116,7 @@
             <xs:enumeration value="@layout/viewautocomplettextviewxml" />
             <xs:enumeration value="@layout/viewimageview" />
             <xs:enumeration value="@layout/viewradiobutton" />
+            <xs:enumeration value="@layout/viewspinner" />
             <xs:enumeration value="@layout/widgetaula01" />
             <xs:enumeration value="@layout/wiewalertdialog" />
             <xs:enumeration value="@android:layout/activity_list_item" />
@@ -161,6 +164,7 @@
             <xs:enumeration value="@layout/viewautocomplettextviewxml" />
             <xs:enumeration value="@layout/viewimageview" />
             <xs:enumeration value="@layout/viewradiobutton" />
+            <xs:enumeration value="@layout/viewspinner" />
             <xs:enumeration value="@layout/widgetaula01" />
             <xs:enumeration value="@layout/wiewalertdialog" />
             <xs:enumeration value="@android:layout/activity_list_item" />
@@ -203,6 +207,7 @@
             <xs:enumeration value="@string/app_name" />
             <xs:enumeration value="@string/bt_complet" />
             <xs:enumeration value="@string/bt_completXML" />
+            <xs:enumeration value="@string/bt_Spinner" />
             <xs:enumeration value="@string/estado" />
             <xs:enumeration value="@string/ms_estado" />
             <xs:enumeration value="@android:string/cancel" />

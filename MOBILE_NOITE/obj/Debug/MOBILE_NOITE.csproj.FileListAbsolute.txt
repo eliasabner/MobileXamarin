@@ -216,5 +216,6 @@ C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\android\asse
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\android\assets\System.Web.Services.pdb
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\android\assets\System.Xml.Linq.pdb
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\res\layout\viewspinner.xml
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\bin\Debug\MOBILE_NOITE.dll
 C:\Users\elias.absantos\Desktop\MOBILE_NOITE\MOBILE_NOITE\obj\Debug\linksrc\MOBILE_NOITE.dll.mdb

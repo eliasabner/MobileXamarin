@@ -5,4 +5,5 @@
   <string name="estado">Estados</string>
   <string name="ms_estado">Digite o Estado</string>
   <string name="bt_completXML">View AutoCompletXML</string>
+  <string name="bt_Spinner">ViewSpinner</string>
 </resources>

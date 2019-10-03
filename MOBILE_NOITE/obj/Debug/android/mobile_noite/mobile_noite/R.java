@@ -26,27 +26,30 @@ public final class R {
         public static final int AutoComplet=0x7f060007;
         public static final int AutoCompletXML=0x7f060008;
         public static final int IOS=0x7f060002;
+        public static final int ViwSpinner=0x7f060009;
         public static final int android=0x7f060003;
-        public static final int aut_xml=0x7f06000a;
-        public static final int bt=0x7f060013;
-        public static final int btAlert=0x7f060015;
-        public static final int btAlertOkNo=0x7f060016;
+        public static final int aut_xml=0x7f06000b;
+        public static final int bt=0x7f060016;
+        public static final int btAlert=0x7f060018;
+        public static final int btAlertOkNo=0x7f060019;
         public static final int btPer=0x7f060005;
-        public static final int btToast=0x7f060017;
+        public static final int btToast=0x7f06001a;
         public static final int campoNome=0x7f060004;
-        public static final int estado=0x7f060009;
+        public static final int estado=0x7f06000a;
         public static final int img01=0x7f060000;
-        public static final int imgAndr=0x7f06000c;
-        public static final int imgIos=0x7f06000d;
-        public static final int imgv=0x7f06000b;
-        public static final int mostra=0x7f060014;
+        public static final int imgAndr=0x7f06000d;
+        public static final int imgIos=0x7f06000e;
+        public static final int imgv=0x7f06000c;
+        public static final int lb_sp=0x7f060015;
+        public static final int mostra=0x7f060017;
         public static final int mostraPer=0x7f060006;
-        public static final int rd01=0x7f06000f;
-        public static final int rd02=0x7f060010;
-        public static final int rd03=0x7f060011;
-        public static final int rd04=0x7f060012;
+        public static final int rd01=0x7f060010;
+        public static final int rd02=0x7f060011;
+        public static final int rd03=0x7f060012;
+        public static final int rd04=0x7f060013;
+        public static final int sp01=0x7f060014;
         public static final int xamarin=0x7f060001;
-        public static final int xamrin=0x7f06000e;
+        public static final int xamrin=0x7f06000f;
     }
     public static final class layout {
         public static final int atividade2_radiobutton_imageview=0x7f030000;
@@ -57,11 +60,13 @@ public final class R {
         public static final int viewautocomplettextviewxml=0x7f030005;
         public static final int viewimageview=0x7f030006;
         public static final int viewradiobutton=0x7f030007;
-        public static final int widgetaula01=0x7f030008;
-        public static final int wiewalertdialog=0x7f030009;
+        public static final int viewspinner=0x7f030008;
+        public static final int widgetaula01=0x7f030009;
+        public static final int wiewalertdialog=0x7f03000a;
     }
     public static final class string {
         public static final int app_name=0x7f050000;
+        public static final int bt_Spinner=0x7f050005;
         public static final int bt_complet=0x7f050001;
         public static final int bt_completXML=0x7f050004;
         public static final int estado=0x7f050002;

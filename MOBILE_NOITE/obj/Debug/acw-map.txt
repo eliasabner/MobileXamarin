@@ -30,6 +30,10 @@ MOBILE_NOITE.ViewsImageView, MOBILE_NOITE;md5a76fe8e9f4c0f67d5c396a454e9f9175.Vi
 MOBILE_NOITE.ViewsImageView, MOBILE_NOITE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a76fe8e9f4c0f67d5c396a454e9f9175.ViewsImageView
 MOBILE_NOITE.ViewsImageView;md5a76fe8e9f4c0f67d5c396a454e9f9175.ViewsImageView
 mobile_noite.ViewsImageView;md5a76fe8e9f4c0f67d5c396a454e9f9175.ViewsImageView
+MOBILE_NOITE.ViewSpinner, MOBILE_NOITE;md5a76fe8e9f4c0f67d5c396a454e9f9175.ViewSpinner
+MOBILE_NOITE.ViewSpinner, MOBILE_NOITE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a76fe8e9f4c0f67d5c396a454e9f9175.ViewSpinner
+MOBILE_NOITE.ViewSpinner;md5a76fe8e9f4c0f67d5c396a454e9f9175.ViewSpinner
+mobile_noite.ViewSpinner;md5a76fe8e9f4c0f67d5c396a454e9f9175.ViewSpinner
 MOBILE_NOITE.widgetAula01, MOBILE_NOITE;md5a76fe8e9f4c0f67d5c396a454e9f9175.widgetAula01
 MOBILE_NOITE.widgetAula01, MOBILE_NOITE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a76fe8e9f4c0f67d5c396a454e9f9175.widgetAula01
 MOBILE_NOITE.widgetAula01;md5a76fe8e9f4c0f67d5c396a454e9f9175.widgetAula01

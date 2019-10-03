@@ -103,68 +103,77 @@ namespace MOBILE_NOITE
 			// aapt resource value: 0x7f060002
 			public const int IOS = 2131099650;
 			
+			// aapt resource value: 0x7f060009
+			public const int ViwSpinner = 2131099657;
+			
 			// aapt resource value: 0x7f060003
 			public const int android = 2131099651;
 			
-			// aapt resource value: 0x7f06000a
-			public const int aut_xml = 2131099658;
-			
-			// aapt resource value: 0x7f060013
-			public const int bt = 2131099667;
-			
-			// aapt resource value: 0x7f060015
-			public const int btAlert = 2131099669;
+			// aapt resource value: 0x7f06000b
+			public const int aut_xml = 2131099659;
 			
 			// aapt resource value: 0x7f060016
-			public const int btAlertOkNo = 2131099670;
+			public const int bt = 2131099670;
+			
+			// aapt resource value: 0x7f060018
+			public const int btAlert = 2131099672;
+			
+			// aapt resource value: 0x7f060019
+			public const int btAlertOkNo = 2131099673;
 			
 			// aapt resource value: 0x7f060005
 			public const int btPer = 2131099653;
 			
-			// aapt resource value: 0x7f060017
-			public const int btToast = 2131099671;
+			// aapt resource value: 0x7f06001a
+			public const int btToast = 2131099674;
 			
 			// aapt resource value: 0x7f060004
 			public const int campoNome = 2131099652;
 			
-			// aapt resource value: 0x7f060009
-			public const int estado = 2131099657;
+			// aapt resource value: 0x7f06000a
+			public const int estado = 2131099658;
 			
 			// aapt resource value: 0x7f060000
 			public const int img01 = 2131099648;
 			
-			// aapt resource value: 0x7f06000c
-			public const int imgAndr = 2131099660;
-			
 			// aapt resource value: 0x7f06000d
-			public const int imgIos = 2131099661;
+			public const int imgAndr = 2131099661;
 			
-			// aapt resource value: 0x7f06000b
-			public const int imgv = 2131099659;
+			// aapt resource value: 0x7f06000e
+			public const int imgIos = 2131099662;
 			
-			// aapt resource value: 0x7f060014
-			public const int mostra = 2131099668;
+			// aapt resource value: 0x7f06000c
+			public const int imgv = 2131099660;
+			
+			// aapt resource value: 0x7f060015
+			public const int lb_sp = 2131099669;
+			
+			// aapt resource value: 0x7f060017
+			public const int mostra = 2131099671;
 			
 			// aapt resource value: 0x7f060006
 			public const int mostraPer = 2131099654;
 			
-			// aapt resource value: 0x7f06000f
-			public const int rd01 = 2131099663;
-			
 			// aapt resource value: 0x7f060010
-			public const int rd02 = 2131099664;
+			public const int rd01 = 2131099664;
 			
 			// aapt resource value: 0x7f060011
-			public const int rd03 = 2131099665;
+			public const int rd02 = 2131099665;
 			
 			// aapt resource value: 0x7f060012
-			public const int rd04 = 2131099666;
+			public const int rd03 = 2131099666;
+			
+			// aapt resource value: 0x7f060013
+			public const int rd04 = 2131099667;
+			
+			// aapt resource value: 0x7f060014
+			public const int sp01 = 2131099668;
 			
 			// aapt resource value: 0x7f060001
 			public const int xamarin = 2131099649;
 			
-			// aapt resource value: 0x7f06000e
-			public const int xamrin = 2131099662;
+			// aapt resource value: 0x7f06000f
+			public const int xamrin = 2131099663;
 			
 			static Id()
 			{
@@ -204,10 +213,13 @@ namespace MOBILE_NOITE
 			public const int ViewRadioButton = 2130903047;
 			
 			// aapt resource value: 0x7f030008
-			public const int widgetAula01 = 2130903048;
+			public const int ViewSpinner = 2130903048;
 			
 			// aapt resource value: 0x7f030009
-			public const int WiewAlertDialog = 2130903049;
+			public const int widgetAula01 = 2130903049;
+			
+			// aapt resource value: 0x7f03000a
+			public const int WiewAlertDialog = 2130903050;
 			
 			static Layout()
 			{
@@ -224,6 +236,9 @@ namespace MOBILE_NOITE
 			
 			// aapt resource value: 0x7f050000
 			public const int app_name = 2131034112;
+			
+			// aapt resource value: 0x7f050005
+			public const int bt_Spinner = 2131034117;
 			
 			// aapt resource value: 0x7f050001
 			public const int bt_complet = 2131034113;
