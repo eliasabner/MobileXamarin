@@ -21,6 +21,22 @@ namespace MOBILE_NOITE
 
             //
             SetContentView(Resource.Layout.ViewCheckBox);
+
+            var btck_ang = FindViewById<CheckBox>(Resource.Id.chk_angula);
+            var btck_c = FindViewById<CheckBox>(Resource.Id.chk_c);
+            var btck_css = FindViewById<CheckBox>(Resource.Id.chk_css);
+            var btck_html = FindViewById<CheckBox>(Resource.Id.chk_html);
+            var btck_js = FindViewById<CheckBox>(Resource.Id.chk_js);
+            var btck_mysql = FindViewById<CheckBox>(Resource.Id.chk_mysql);
+            var btck_php = FindViewById<CheckBox>(Resource.Id.chk_php);
+            var btck_react = FindViewById<CheckBox>(Resource.Id.chk_react);
+            var btck_vue = FindViewById<CheckBox>(Resource.Id.chk_vue);
+
+
+
+
+
+
         }
     }
 }
