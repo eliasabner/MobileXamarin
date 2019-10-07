@@ -21,27 +21,58 @@ namespace MOBILE_NOITE
             base.OnCreate(savedInstanceState);
 
             SetContentView(Resource.Layout.AULAS);
-            // 
+            // 1º 
             var btComp = FindViewById<Button>(Resource.Id.AutoComplet);
-            var btComXML = FindViewById<Button>(Resource.Id.AutoCompletXML);
-            var btSpinner = FindViewById<Button>(Resource.Id.ViwSpinner);
 
+            //2º AULA AUTOCOMPLETE XML
+            Button btCompXML = FindViewById<Button>(Resource.Id.AutoCompletXML);
+
+            //3°
+            var btSpinner = FindViewById<Button>(Resource.Id.spinner);
+
+            //4 SPINER XML BOTÃO
+
+            var btSpinnerXml = FindViewById<Button>(Resource.Id.spinnerxml);
+            
+            //5º BOTÃO XML CHEKBOX
+            var btcheckbox = FindViewById<Button>(Resource.Id.checkbox);
+
+            // EVENTO 
+            // 5
+            btcheckbox.Click += (X, E) => {
+                StartActivity(typeof(ViewCheckBox));
+            };
+
+
+            //1º
             btComp.Click += (sender, arg) => {
                 // fazer um link(chamar tela)
                 StartActivity(typeof(ViewAutoCompletTextView));
+
             };
 
-            btComXML.Click += (x, y) =>
-            {
+            //2º
+            btCompXML.Click += (x, y) => {
+                //chamando a tela autocompetxml(link)
                 StartActivity(typeof(ViewAutoCompletTextViewXML));
             };
 
-            btSpinner.Click += (sender, arg) =>
-             {
-                 //chama a tela spinner
-                 StartActivity(typeof(ViewSpinner));
+            btSpinner.Click += (senderArg, arg) => {
+                // chama a tela 
+                StartActivity(typeof(ViewSpenner));
+
             };
 
+            // 4°
+
+            btSpinnerXml.Click += BtSpinnerXml_Click;
+
+        }
+
+        private void BtSpinnerXml_Click(object sender, EventArgs e)
+        {
+            // chamar a tela
+            StartActivity(typeof(ViewSpinnerXml));
         }
     }
 }

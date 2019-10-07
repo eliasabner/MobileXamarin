@@ -9,14 +9,30 @@
         android:layout_width="match_parent"
         android:id="@+id/AutoComplet"
         android:text="@string/bt_complet" />
-    <Button
-        android:layout_height="wrap_content"
-        android:layout_width="match_parent"
-        android:id="@+id/AutoCompletXML"
-        android:text="@string/bt_completXML" />
-    <Button
-        android:layout_height="wrap_content"
-        android:layout_width="match_parent"
-        android:id="@+id/ViwSpinner"
-        android:text="@string/bt_Spinner" />
+
+  <Button
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+       android:id="@+id/AutoCompletXML"
+       android:text="@string/bt_completXML" />
+
+  <Button
+      android:layout_height="wrap_content"
+      android:layout_width="match_parent"
+      android:id="@+id/spinner"
+      android:text="@string/bt_spinner" />
+
+  <Button
+      android:layout_height="wrap_content"
+      android:layout_width="match_parent"
+      android:id="@+id/spinnerxml"
+      android:text="@string/bt_spinnerxml" />
+
+  <Button
+     android:layout_height="wrap_content"
+     android:layout_width="match_parent"
+     android:id="@+id/checkbox"
+     android:text="VIEW CHECKBOX" />
+  
+  
 </LinearLayout>
