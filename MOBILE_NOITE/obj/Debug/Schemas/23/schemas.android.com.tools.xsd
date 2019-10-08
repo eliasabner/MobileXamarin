@@ -2,7 +2,7 @@
 <xs:schema xmlns:tools="http://schemas.android.com/tools" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>02/10/2019 21:52:05</xs:documentation>
+    <xs:documentation>07/10/2019 21:42:18</xs:documentation>
   </xs:annotation>
   <xs:attribute name="layout">
     <xs:annotation>
@@ -14,10 +14,12 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/atividade_alertdialog" />
             <xs:enumeration value="@layout/atividade2_radiobutton_imageview" />
+            <xs:enumeration value="@layout/atividae3" />
             <xs:enumeration value="@layout/aulas" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@layout/viewautocomplettextview" />
             <xs:enumeration value="@layout/viewautocomplettextviewxml" />
+            <xs:enumeration value="@layout/viewcheckbox" />
             <xs:enumeration value="@layout/viewimageview" />
             <xs:enumeration value="@layout/viewradiobutton" />
             <xs:enumeration value="@layout/viewspinner" />
@@ -62,10 +64,12 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/atividade_alertdialog" />
             <xs:enumeration value="@layout/atividade2_radiobutton_imageview" />
+            <xs:enumeration value="@layout/atividae3" />
             <xs:enumeration value="@layout/aulas" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@layout/viewautocomplettextview" />
             <xs:enumeration value="@layout/viewautocomplettextviewxml" />
+            <xs:enumeration value="@layout/viewcheckbox" />
             <xs:enumeration value="@layout/viewimageview" />
             <xs:enumeration value="@layout/viewradiobutton" />
             <xs:enumeration value="@layout/viewspinner" />
@@ -110,10 +114,12 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/atividade_alertdialog" />
             <xs:enumeration value="@layout/atividade2_radiobutton_imageview" />
+            <xs:enumeration value="@layout/atividae3" />
             <xs:enumeration value="@layout/aulas" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@layout/viewautocomplettextview" />
             <xs:enumeration value="@layout/viewautocomplettextviewxml" />
+            <xs:enumeration value="@layout/viewcheckbox" />
             <xs:enumeration value="@layout/viewimageview" />
             <xs:enumeration value="@layout/viewradiobutton" />
             <xs:enumeration value="@layout/viewspinner" />
@@ -158,10 +164,12 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/atividade_alertdialog" />
             <xs:enumeration value="@layout/atividade2_radiobutton_imageview" />
+            <xs:enumeration value="@layout/atividae3" />
             <xs:enumeration value="@layout/aulas" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@layout/viewautocomplettextview" />
             <xs:enumeration value="@layout/viewautocomplettextviewxml" />
+            <xs:enumeration value="@layout/viewcheckbox" />
             <xs:enumeration value="@layout/viewimageview" />
             <xs:enumeration value="@layout/viewradiobutton" />
             <xs:enumeration value="@layout/viewspinner" />
@@ -207,7 +215,8 @@
             <xs:enumeration value="@string/app_name" />
             <xs:enumeration value="@string/bt_complet" />
             <xs:enumeration value="@string/bt_completXML" />
-            <xs:enumeration value="@string/bt_Spinner" />
+            <xs:enumeration value="@string/bt_spinner" />
+            <xs:enumeration value="@string/bt_spinnerxml" />
             <xs:enumeration value="@string/estado" />
             <xs:enumeration value="@string/ms_estado" />
             <xs:enumeration value="@android:string/cancel" />

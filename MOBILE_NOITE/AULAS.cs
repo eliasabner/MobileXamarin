@@ -15,7 +15,7 @@ namespace MOBILE_NOITE
     [Activity(Label = "AULAS", MainLauncher = true)]
     public class AULAS : Activity
     {
-        
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -33,10 +33,11 @@ namespace MOBILE_NOITE
             //4 SPINER XML BOTÃO
 
             var btSpinnerXml = FindViewById<Button>(Resource.Id.spinnerxml);
-            
+
             //5º BOTÃO XML CHEKBOX
             var btcheckbox = FindViewById<Button>(Resource.Id.checkbox);
-
+            //Atividade 3
+            var btAtividade_tres = FindViewById<Button>(Resource.Id.atividade_tres);
             // EVENTO 
             // 5
             btcheckbox.Click += (X, E) => {
@@ -67,12 +68,20 @@ namespace MOBILE_NOITE
 
             btSpinnerXml.Click += BtSpinnerXml_Click;
 
+            btAtividade_tres.Click += (Event, sender) =>
+            {
+                StartActivity(typeof(Atividade3));
+            };
         }
+
+        
 
         private void BtSpinnerXml_Click(object sender, EventArgs e)
         {
             // chamar a tela
             StartActivity(typeof(ViewSpinnerXml));
         }
+
+        
     }
 }

@@ -20,14 +20,10 @@
         android:id="@+id/bt"
         android:text="CLICK"
         android:textSize="20sp" />
-
-  <TextView
-    android:layout_height="wrap_content"
-    android:layout_width="match_parent"
-    android:id="@+id/mostra" 
-    android:textColor="#ffffff"
-    android:textSize="20sp"/>
-  
-  
-  
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/mostra"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
 </LinearLayout>

@@ -91,6 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ATIVIDADE2_RADIOBUTTON_IMAGEMVIEW.cs" />
+    <Compile Include="Atividade3.cs" />
     <Compile Include="Atividade_AlertDialog.cs" />
     <Compile Include="AULAS.cs" />
     <Compile Include="MainActivity.cs" />
@@ -143,6 +144,9 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\ViewCheckBox.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Atividae3.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
