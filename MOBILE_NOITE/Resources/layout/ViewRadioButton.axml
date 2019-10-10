@@ -3,32 +3,28 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-  <RadioButton
-    android:id="@+id/rd01"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="PHP"/>
-  <RadioButton
-    android:id="@+id/rd02"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="MYSQL"/>
-
-  <RadioGroup
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content">
-
     <RadioButton
-    android:id="@+id/rd03"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="PHP"/>
+        android:id="@+id/rd01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PHP" />
     <RadioButton
-      android:id="@+id/rd04"
-      android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:text="MYSQL"/>
-  </RadioGroup>
-  
-
+        android:id="@+id/rd02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MYSQL" />
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/rd03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PHP" />
+        <RadioButton
+            android:id="@+id/rd04"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MYSQL" />
+    </RadioGroup>
 </LinearLayout>

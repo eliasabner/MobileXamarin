@@ -34,7 +34,7 @@
             android:layout_height="wrap_content"
             android:text="F" />
         <RadioButton
-            android:id="@+id/sexoF"
+            android:id="@+id/sexoM"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="M" />
@@ -100,6 +100,39 @@
        android:layout_width="match_parent"
         android:text="Cadastrar"
        android:textSize="20sp" />
+  <EditText
+    android:id="@+id/nomeCadastrado"
+   android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:textSize="20sp" />
+   
+     <EditText
+    android:id="@+id/sexoCad"
+   android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:textSize="20sp" />
+  <EditText
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+       android:inputType="text"
+       android:id="@+id/endCad" />
+   <EditText
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+       android:inputType="text"
+       android:id="@+id/ruaCad" />
+   <EditText
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+       android:inputType="text"
+       android:id="@+id/cidadeCad" />
+   <EditText
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+       android:inputType="text"
+       android:id="@+id/estadosCad" />
+
+ 
   
 </LinearLayout>
 </ScrollView>
