@@ -34,4 +34,14 @@
         android:layout_width="match_parent"
         android:id="@+id/atividade_tres"
         android:text="Atividade Tres" />
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/passagem_tela"
+        android:text="Passagem Tela" />
+  <Button
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+       android:id="@+id/atividade4"
+       android:text="Atividade4" />
 </LinearLayout>

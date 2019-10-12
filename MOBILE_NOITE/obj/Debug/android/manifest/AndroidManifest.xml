@@ -8,6 +8,7 @@
   <application android:allowBackup="true" android:label="@string/app_name" android:name="android.app.Application" android:debuggable="true">
     <activity android:label="ATIVIDADE2_RADIOBUTTON_IMAGEMVIEW" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.ATIVIDADE2_RADIOBUTTON_IMAGEMVIEW" />
     <activity android:label="Atividade3" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.Atividade3" />
+    <activity android:label="Atividade4" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.Atividade4" />
     <activity android:label="Atividade_AlertDialog" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.Atividade_AlertDialog" />
     <activity android:label="AULAS" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.AULAS">
       <intent-filter>
@@ -16,6 +17,9 @@
       </intent-filter>
     </activity>
     <activity android:label="MOBILE_NOITE" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.MainActivity" />
+    <activity android:label="Passagem_Parametro_Tela" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.Passagem_Parametro_Tela" />
+    <activity android:label="RecebeAtvidade4" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.RecebeAtvidade4" />
+    <activity android:label="Recebe_Parametro_Tela" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.Recebe_Parametro_Tela" />
     <activity android:label="ViewAutoCompletTextView" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.ViewAutoCompletTextView" />
     <activity android:label="ViewAutoCompletTextViewXML" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.ViewAutoCompletTextViewXML" />
     <activity android:label="ViewCheckBox" android:name="md5a76fe8e9f4c0f67d5c396a454e9f9175.ViewCheckBox" />

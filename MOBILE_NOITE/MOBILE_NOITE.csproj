@@ -92,9 +92,13 @@
   <ItemGroup>
     <Compile Include="ATIVIDADE2_RADIOBUTTON_IMAGEMVIEW.cs" />
     <Compile Include="Atividade3.cs" />
+    <Compile Include="Atividade4.cs" />
     <Compile Include="Atividade_AlertDialog.cs" />
     <Compile Include="AULAS.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="Passagem_Parametro_Tela.cs" />
+    <Compile Include="RecebeAtvidade4.cs" />
+    <Compile Include="Recebe_Parametro_Tela.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewAutoCompletTextView.cs" />
@@ -147,6 +151,18 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\Atividae3.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Passagem_Parametro_Tela.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Recebe_Parametro_Tela.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Atividade4.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RecebeAtvidade4.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

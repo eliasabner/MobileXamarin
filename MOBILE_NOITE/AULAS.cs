@@ -38,6 +38,11 @@ namespace MOBILE_NOITE
             var btcheckbox = FindViewById<Button>(Resource.Id.checkbox);
             //Atividade 3
             var btAtividade_tres = FindViewById<Button>(Resource.Id.atividade_tres);
+
+            //Passagem Atividade
+            var btPassagemTela = FindViewById<Button>(Resource.Id.passagem_tela);
+
+            var btAtividade_quatro = FindViewById<Button>(Resource.Id.atividade4);
             // EVENTO 
             // 5
             btcheckbox.Click += (X, E) => {
@@ -72,6 +77,18 @@ namespace MOBILE_NOITE
             {
                 StartActivity(typeof(Atividade3));
             };
+
+            btPassagemTela.Click += (Events, arg) =>
+            {
+                StartActivity(typeof(Passagem_Parametro_Tela));
+            };
+
+            btAtividade_quatro.Click += (Events, arg) =>
+             {
+                 StartActivity(typeof(Atividade4));
+             };
+
+
         }
 
         
